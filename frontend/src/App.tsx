@@ -3,7 +3,13 @@ import SalesCard from "./assets/Componentes/SalesCard"
 import Header from "./assets/Componentes/Header"
 
 
+
 function App() {
+
+
+
+
+
   return (
 
     <>
