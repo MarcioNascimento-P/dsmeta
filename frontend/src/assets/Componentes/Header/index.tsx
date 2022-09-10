@@ -1,4 +1,4 @@
-import head from '../../img/header.svg'
+import head from './header.svg'
 import './styles.css'
 
 function Header() {
